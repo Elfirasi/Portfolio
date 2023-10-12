@@ -1441,7 +1441,7 @@ textarea:-moz-placeholder {
   display: flex;
   justify-content: center;
   overflow: hidden;
-  background: #222222;
+  background: #000;
 }
 
 
