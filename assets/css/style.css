@@ -2062,11 +2062,11 @@ textarea:-moz-placeholder {
 }
 /*------------------------- Dark -------------------------*/
 body.dark-oussama , .dark-oussama .ajax-page-content{
-  background-color: #232324;
+  background-color: transparent;
   color: #fff;
 }
 .dark-oussama .left-side , .dark-oussama #main>section , .dark-oussama .right-side{
-  background-color: #232324;
+  background-color: transparent;
   backdrop-filter: blur(15px);
   color: #fff;
   border: 1px solid #028ac9;
